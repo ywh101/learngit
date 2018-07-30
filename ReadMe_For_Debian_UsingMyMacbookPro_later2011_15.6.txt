@@ -5,7 +5,7 @@ Step4: Install the compiling environment package -- gdb and build-essential
 Step5: Install the headers of the kernal by using "sudo apt-get install linux-headers-'uname -r' -y"
 Step6: Modify the file /etc/profile and change the default PATH
 Step7: Modify /etc/vim/vimrc and ~/.bashrc according to your hobby
-Step8: Install the wireless driver firmware-b43-installer and modify the file /etc/network/interfaces to add your wireless interface's name, then you need reboot.
+Step8: Install the wireless driver firmware-b43-installer and modify the file /etc/network/interfaces to add your wireless interface's name(wlp3s0b1), then you need reboot.
 Step9: Switch to root, and write a script for configuring your wireless network.And firstly use wpa_passphrase to generate wpa_supplicant.conf under the path /etc/wpa_supplicant/
 Step10: Install the package git, and configure your remote repository according to the course by Liao Xuefeng.
 Step11: Install Anaconda and tensorflow for your study in AI domain
