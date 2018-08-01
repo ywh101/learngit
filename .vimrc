@@ -13,6 +13,13 @@ Plugin 'scrooloose/nerdtree'  "A file system explorer
 Plugin 'tpope/vim-surround'   "easily delete, change and add surroundings in pairs
 Plugin 'w0rp/ale'    "syntax test Asynchronous
 Plugin 'altercation/vim-colors-solarized' "a kind of color scheme
+Plugin 'cocopon/iceberg.vim'
+Plugin 'chriskempson/vim-tomorrow-theme'
+Plugin 'tomasr/molokai'
+Plugin 'jnurmine/Zenburn'
+Plugin 'candy.vim'
+Plugin 'ajh17/spacegray.vim'
+
 Plugin 'jiangmiao/auto-pairs' "insert or delete brackets, parens, quotes in pair
 Plugin 'ryanoasis/vim-devicons' "add file type icons to popular vim plugins
 Plugin 'mhinz/vim-startify' "the fancy start screen for vim
