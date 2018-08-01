@@ -11,3 +11,4 @@ Step10: Install the package git, and configure your remote repository according 
 Step11: Install Anaconda and tensorflow for your study in AI domain
 Step12: Install the package ros and moveit! for your career.
 notes1: When using this Mac with Debian 9.5, I can't install the X-system.Although I tried a lot means from the web, I still can't solve the problem.I tried modify GRUB_GFXPAYLOAD_LINUX = 1240X768(4:3) or 1920x1080, and tried modify GRUB_GFXMODE, and that's all nonsense.I tried install the driver for tg3 and install the package -- firmware-Linux-nonfree, and the result is the Mac turned to be dead while rebooting, meanwhile I can't even launch my Mac by the recovery mode. I had to reinstall the system at last.
+Step13: To install the plugin-youcompleteme for Vim, use the command 'sudo apt-get install vim-youcompleteme'.If it doesn't work, you can also configure it in vundle at the same time.
